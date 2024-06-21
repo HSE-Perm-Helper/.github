@@ -12,6 +12,7 @@
 ### Frontend (Telegram Bot)
 - Python
 - PyTelegramBotApi
+- Requests
 ## Team
 - Денис Малинин – Backend-developer
 - Михаил Федосеев – Frontend-developer
