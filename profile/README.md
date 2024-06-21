@@ -14,5 +14,5 @@
 - PyTelegramBotApi
 - Requests
 ## Team
-- Денис Малинин – Backend-developer
-- Михаил Федосеев – Frontend-developer
+- Денис Малинин (Melowetty) – Backend-developer
+- Михаил Федосеев (beeshnik) – Frontend-developer
