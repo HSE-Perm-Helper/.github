@@ -9,9 +9,13 @@
 - JUnit 5
 - Apache POI
 - Jsoup4
+- Eureka Server
+- Spring Cloud Gateway
+- Spring Cloud Config
+- MongoDB
 ### Frontend (Telegram Bot)
 - Python
-- PyTelegramBotApi
+- Aiogram
 - Requests
 ## Team
 - Денис Малинин (Melowetty) – Backend-developer
