@@ -19,7 +19,6 @@
 - Eureka Server
 - Spring Cloud Gateway
 - Spring Cloud Config
-- MongoDB
 ### Frontend (Telegram Bot)
 - Python
 - Aiogram
